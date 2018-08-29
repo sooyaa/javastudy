@@ -1,15 +1,6 @@
 # study-java-basic
 
-> Mac OS 환경입니다.
-
-## git
-```bash
-$ git init
-$ git add README.md 
-$ git commit -m "first commit"
-$ git remote add origin https://github.com/sooyaa/study-java-basic.git
-$ git push -u origin master
-```
+> Mac OS 환경
 
 ## gradle
 ```bash
@@ -35,4 +26,13 @@ Groovy:       2.4.15
 Ant:          Apache Ant(TM) version 1.9.11 compiled on March 23 2018
 JVM:          10.0.2 ("Oracle Corporation" 10.0.2+13)
 OS:           Mac OS X 10.13.6 x86_64
+```
+
+## git
+```bash
+$ git init
+$ git add README.md 
+$ git commit -m "first commit"
+$ git remote add origin https://github.com/sooyaa/study-java-basic.git
+$ git push -u origin master
 ```
